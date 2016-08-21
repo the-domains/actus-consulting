@@ -13,14 +13,14 @@ collections:
 color:
   saturation: 0.3914371123537421
   brandStrength: 0.1034875784534961
-  rhythmicContrast: 0.8037661663256586
-  brandColors:
-    - '#2E0927'
-    - '#D90000'
-    - '#FF2D00'
-    - '#FF8C00'
-    - '#04756F'
   lightness: 0.9227734529413283
+  brandColors:
+    - '#642D92'
+    - '#25184D'
+    - '#CBD7EF'
+    - '#9CB1DA'
+    - '#5A8FB3'
+  rhythmicContrast: 0.8037661663256586
 typography_spectrum: 0.8978545
-layout_spectrum: 0.4524254
+layout_spectrum: 0
 name: Actus Consulting
