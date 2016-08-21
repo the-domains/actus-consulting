@@ -1,14 +1,26 @@
-layout_spectrum: 0.7097219503484666
-typography_spectrum: 0.313585122814402
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  brandStrength: 0.1034875784534961
-  lightness: 0.9227734529413283
   saturation: 0.3914371123537421
+  brandStrength: 0.1034875784534961
   rhythmicContrast: 0.8037661663256586
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
+  lightness: 0.9227734529413283
+typography_spectrum: 0.8978545
+layout_spectrum: 0.4524254
 name: Actus Consulting
