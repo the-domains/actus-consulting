@@ -17,6 +17,10 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0ccf1ffa-8feb-4360-a0fb-ec2284a05b3a.jpg
 name: Actus Consulting
+navigation:
+  - name: Services
+    id: 025e5c4c-93da-4f57-8da9-470eb950da66
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ebda1d3-9ad8-45bc-94d0-d2f9425d62f3.png
 collections:
