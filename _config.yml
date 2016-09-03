@@ -1,3 +1,24 @@
+typography_spectrum: 0.8978545
+color:
+  saturation: 0.3914371123537421
+  brandStrength: 0.1034875784534961
+  lightness: 0.9227734529413283
+  brandColors:
+    - '#642D92'
+    - '#25184D'
+    - '#CBD7EF'
+    - '#9CB1DA'
+    - '#5A8FB3'
+  rhythmicContrast: 0.8037661663256586
+layout_spectrum: 0
+author:
+  name: Dan Egerton
+  email: Dan@actus.consulting
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/0ccf1ffa-8feb-4360-a0fb-ec2284a05b3a.jpg
+name: Actus Consulting
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ebda1d3-9ad8-45bc-94d0-d2f9425d62f3.png
 collections:
   - index:
       path: /
@@ -10,17 +31,4 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.3914371123537421
-  brandStrength: 0.1034875784534961
-  lightness: 0.9227734529413283
-  brandColors:
-    - '#642D92'
-    - '#25184D'
-    - '#CBD7EF'
-    - '#9CB1DA'
-    - '#5A8FB3'
-  rhythmicContrast: 0.8037661663256586
-typography_spectrum: 0.8978545
-layout_spectrum: 0
-name: Actus Consulting
+title: LET'S GROW YOUR BUSINESS
