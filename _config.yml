@@ -1,16 +1,16 @@
-typography_spectrum: 0.8978545
+layout_spectrum: 0.11151766311377287
+typography_spectrum: 0.6692553001921624
 color:
-  saturation: 0.3914371123537421
-  brandStrength: 0.1034875784534961
-  lightness: 0.9227734529413283
+  saturation: 0.91540682525374
+  brandStrength: 0.6169820772483945
+  lightness: 0.22312708152458072
   brandColors:
-    - '#642D92'
-    - '#25184D'
-    - '#CBD7EF'
-    - '#9CB1DA'
-    - '#5A8FB3'
-  rhythmicContrast: 0.8037661663256586
-layout_spectrum: 0
+    - '#58585A'
+    - '#D82027'
+    - '#000000'
+    - '#BF0000'
+    - '#FF0000'
+  rhythmicContrast: 0.8184543470852077
 author:
   name: Dan Egerton
   email: Dan@actus.consulting
