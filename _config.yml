@@ -15,7 +15,7 @@ description: >-
   Improve your business performance, exceed your aspirations, build exceptional
   value
 color:
-  saturation: 0.5482456
+  saturation: 1
   brandStrength: 1
   lightness: 0.08395522
   brandColors:
@@ -24,18 +24,18 @@ color:
     - '#000000'
     - '#BF0000'
     - '#FF0000'
-  rhythmicContrast: 0.683584
+  rhythmicContrast: 1
 navigation:
   - name: Services
     id: 025e5c4c-93da-4f57-8da9-470eb950da66
     type: content
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ebda1d3-9ad8-45bc-94d0-d2f9425d62f3.png
 name: Actus Consulting
 author:
   name: Dan Egerton
   email: Dan@actus.consulting
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ebda1d3-9ad8-45bc-94d0-d2f9425d62f3.png
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd935c5a-2847-4246-99bb-44568a3f5935.png
 typography_spectrum: 0.3614739
-layout_spectrum: 0.5041978
+layout_spectrum: 1
