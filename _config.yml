@@ -5,19 +5,19 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 description: >-
   Improve your business performance, exceed your aspirations, build exceptional
   value
 color:
   saturation: 0.5482456
-  brandStrength: 0
-  lightness: 0.6804512
+  brandStrength: 1
+  lightness: 0.08395522
   brandColors:
     - '#58585A'
     - '#D82027'
@@ -37,5 +37,5 @@ author:
   email: Dan@actus.consulting
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd935c5a-2847-4246-99bb-44568a3f5935.png
-typography_spectrum: 0.6046366
-layout_spectrum: 1
+typography_spectrum: 0.3614739
+layout_spectrum: 0.5041978
