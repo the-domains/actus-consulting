@@ -1,5 +1,5 @@
 ---
-dateModified: '2016-09-01T22:15:33.811Z'
+dateModified: '2016-09-02T10:25:15.443Z'
 author: []
 via: {}
 title: Let’s talk value
@@ -9,12 +9,11 @@ description: >-
   market value.Because we know what buyers look for in a business acquisition,
   we know exactly where to focus on building value. So, we will:
 sourcePath: _posts/2016-09-01-maximising-value.md
-datePublished: '2016-09-01T22:16:03.333Z'
+datePublished: '2016-09-02T10:25:16.203Z'
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: lets-talk-value/index.html
+_type: Blurb
 
 ---
 ![You've put the effor in. Now get the rewards out. ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/419b47c3-c1e6-4900-9608-c9e5bcdaa67c.jpg)
