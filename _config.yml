@@ -21,9 +21,6 @@ navigation:
   - name: Services
     id: 025e5c4c-93da-4f57-8da9-470eb950da66
     type: content
-  - name: Let’s talk value
-    id: 9119d651-5c5c-4ed8-b9bc-4b7334af2f8f
-    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ebda1d3-9ad8-45bc-94d0-d2f9425d62f3.png
 collections:
