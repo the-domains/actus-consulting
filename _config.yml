@@ -1,4 +1,31 @@
-title: LET'S GROW YOUR BUSINESS
+typography_spectrum: 0.3614739
+color:
+  saturation: 0.5106516
+  brandStrength: 0
+  lightness: 0
+  brandColors:
+    - '#58585A'
+    - '#D82027'
+    - '#000000'
+    - '#BF0000'
+    - '#FF0000'
+  rhythmicContrast: 0
+layout_spectrum: 0
+author:
+  name: Dan Egerton
+  email: Dan@actus.consulting
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd935c5a-2847-4246-99bb-44568a3f5935.png
+name: Actus Consulting
+navigation:
+  - name: Services
+    id: 025e5c4c-93da-4f57-8da9-470eb950da66
+    type: content
+  - name: Let’s talk value
+    id: 9119d651-5c5c-4ed8-b9bc-4b7334af2f8f
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ebda1d3-9ad8-45bc-94d0-d2f9425d62f3.png
 collections:
   - index:
       path: /
@@ -11,31 +38,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: LET'S GROW YOUR BUSINESS
 description: >-
   Improve your business performance, exceed your aspirations, build exceptional
   value
-color:
-  saturation: 0.5106516
-  brandStrength: 0
-  lightness: 0
-  brandColors:
-    - '#58585A'
-    - '#D82027'
-    - '#000000'
-    - '#BF0000'
-    - '#FF0000'
-  rhythmicContrast: 0
-navigation:
-  - name: Services
-    id: 025e5c4c-93da-4f57-8da9-470eb950da66
-    type: content
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ebda1d3-9ad8-45bc-94d0-d2f9425d62f3.png
-name: Actus Consulting
-author:
-  name: Dan Egerton
-  email: Dan@actus.consulting
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd935c5a-2847-4246-99bb-44568a3f5935.png
-typography_spectrum: 0.3614739
-layout_spectrum: 0
